@@ -20,6 +20,7 @@ This is a RESTful API built with FastAPI that allows you to manage and view birt
 *   Pydantic
 *   datetime
 *   Regular Expressions (re)
+*   SwaggerAPI/Open API
 
 ## Setup
 
